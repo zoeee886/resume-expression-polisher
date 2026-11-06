@@ -1,0 +1,4 @@
+interface:
+  display_name: "简历表达润色"
+  short_description: "诊断已有简历的表达与结构，经交互核实事实后生成可直接使用的终版文字"
+  default_prompt: "使用 $resume-expression-polisher 检查这份简历的表达，指出问题并在确认事实后生成终版文字。"
